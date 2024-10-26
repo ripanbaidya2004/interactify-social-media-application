@@ -1,0 +1,4 @@
+package com.ripan.production.request;
+
+public class LoginRequest {
+}
